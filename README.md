@@ -194,4 +194,4 @@ src/main/java/auca/ac/rw/restfullApiAssignment/
 
 ## Author
 
-Marvin Ingabo
+RUTARO NGABONZIZA Didace(26591)
